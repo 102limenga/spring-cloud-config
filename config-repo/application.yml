@@ -1,1 +1,5 @@
 
+demo:
+  spring:
+    config:
+      name:config-server
